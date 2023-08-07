@@ -32,7 +32,7 @@ To install Employee Manager, follow the steps below:
 
 To use Employee Manager, follow the prompts in your terminal after running node index.js.
 
-[Insert Demonstration Video Here]
+![Employee Manager](./assets/employee-manager.gif)
 
 ## Features
 
